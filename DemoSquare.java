@@ -1,4 +1,5 @@
 import java.util.Scanner;
+package org.derryfield.math
 public class DemoSquare {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
